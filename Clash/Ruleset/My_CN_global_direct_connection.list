@@ -1,0 +1,56 @@
+# 内容：自定义全球直连
+
+# sands odcvpn
+DOMAIN,odcvpn.sands.com.mo
+DOMAIN-SUFFIX,sands.com.mo
+IP-CIDR,202.175.172.132/32,no-resolve
+
+## chrome 插件
+### 沉浸式翻译
+DOMAIN-SUFFIX,immersivetranslate.com
+#
+DOMAIN-SUFFIX,gitbooks.io
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,plnkr.co
+DOMAIN-SUFFIX,474b.com
+DOMAIN-SUFFIX,xclient.info
+DOMAIN-SUFFIX,juejin.im
+DOMAIN-SUFFIX,javascript.info
+DOMAIN-SUFFIX,cnblogs.com
+DOMAIN-SUFFIX,jianshu.com
+DOMAIN-SUFFIX,hexo.io
+DOMAIN-SUFFIX,csdn.net
+DOMAIN-SUFFIX,voidcn.com
+DOMAIN-SUFFIX,oschina.net
+DOMAIN-SUFFIX,lanzoux.com
+DOMAIN-SUFFIX,baidupan.com
+DOMAIN-SUFFIX,macwk.com
+# 珠海保障性住房
+DOMAIN-SUFFIX,gov.cn
+DOMAIN-SUFFIX,zhszjj.com
+# 豆包
+DOMAIN-SUFFIX,doubao.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,zijieapi.com
+# 软考
+DOMAIN-SUFFIX,ruankaodaren.com
+DOMAIN-SUFFIX,ruankao.org.cn
+# 云服务商
+DOMAIN-SUFFIX,vmiss.com
+DOMAIN-SUFFIX,cloudworkstations.dev
+# vscode
+DOMAIN-SUFFIX,vsassets.io
+DOMAIN-KEYWORD,cdn
+# javascript
+DOMAIN-SUFFIX,vuejs.org
+DOMAIN,play.vuejs.org
+# github
+DOMAIN-SUFFIX,gh-proxy.com
+DOMAIN-KEYWORD,gh-proxy
+DOMAIN-KEYWORD,proxy
+# mirror
+DOMAIN-SUFFIX,ustc.edu.cn
+DOMAIN-SUFFIX,tuna.tsinghua.edu.cn
+DOMAIN-SUFFIX,flutter-io.cn
